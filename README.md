@@ -1,4 +1,4 @@
-# StardewOS 像素操作系统
+# JunimoOS 像素操作系统
 
 > Making an OS for `x86_64` architecture, with a Stardew Valley style, only for fun. 🚀
 
@@ -9,9 +9,6 @@
 Here are the current project goals:
 
 - [x] Design a Stardew Valley-style logo
-- [ ] Implement a basic bootloader
-- [ ] Create a simple command-line interface
-- [ ] Add pixel-art graphics rendering
 
 ## Tech Stack
 
