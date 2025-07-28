@@ -2,7 +2,7 @@
 
 > Making an OS for `x86_64` architecture, with a Stardew Valley style, only for fun. 🚀
 
-<img src="JuminoOS_2.png" width="200">
+<img src="JunimoOS_2.png" width="200">
 
 ## Goals
 
