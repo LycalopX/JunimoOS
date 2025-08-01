@@ -1,1 +1,6 @@
-./toolchain
+# Ignorar a pasta da toolchain e seus builds
+/toolchain/
+
+# Ignorar outros arquivos de build que possam ser gerados no futuro
+*.o
+*.iso
